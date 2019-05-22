@@ -1,1 +1,3 @@
-Run the script gridRem.py on an 'input.png' image and it will produce the 'output.png' in the same directory.
+# Usage
+
+Within the project folder, run `python gridRem.py` on the existing or your own **input.png** to produce the **output.png** file in the same directory.
